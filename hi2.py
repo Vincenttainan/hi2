@@ -1,0 +1,7 @@
+print('hi')
+username=input('what is your name?')
+print('hello',username)
+age=input('how old are you?')
+gender=input('what is your gender?')
+print('You,',username ,',are a-',age, '-year-old',gender,)
+print('\>_</')
